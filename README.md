@@ -1,4 +1,4 @@
-# yaf+swoole框架，协程风格
+# yaf+swoole框架，使用协程处理请求
 ### 使用方式
 #### 部署须知
 ##### 安装composer,swoole
